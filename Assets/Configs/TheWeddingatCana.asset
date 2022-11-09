@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce18aa25c201a114894e13150e9f1986, type: 3}
+  m_Name: TheWeddingatCana
+  m_EditorClassIdentifier: 
+  id: theweddingatcana
+  title: The Wedding at Cana
+  author: Paolo Veronese
+  description: "The Wedding Feast at Cana (1563), by Paolo Veronese (1528\u20131588),
+    is a representational painting that depicts the biblical story of the Marriage
+    at Cana, at which Jesus converts water to \t\t\t\twine. Executed in the Mannerist
+    style of the late Renaissance, the large-format (6.77m \xD7 9.94m) oil painting
+    comprehends the stylistic ideal of compositional harmony, as practised by \t\t\t\tthe
+    artists Leonardo, Raphael, and Michelangelo. "
+  location: Louvre, Paris
+  image: {fileID: 21300000, guid: c87031d5d4e5690488f62c2c42b275fc, type: 3}
+  thumnailSize: {x: 600, y: 400}
+  thumbnailImagePosition: {x: 60, y: 70, z: 0}
+  headImageSize: {x: 1600, y: 1100}
+  headerImagePosition: {x: 0, y: 0, z: 0}

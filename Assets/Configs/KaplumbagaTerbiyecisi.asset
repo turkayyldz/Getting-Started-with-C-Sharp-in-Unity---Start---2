@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce18aa25c201a114894e13150e9f1986, type: 3}
+  m_Name: KaplumbagaTerbiyecisi
+  m_EditorClassIdentifier: 
+  id: Kaplumbaga_Terbiyecisi
+  title: "Kaplumba\u011Fa Terbiyecisi"
+  author: Osman Hamdi Bey
+  description: "Kaplumba\u011Fa Terbiyecisi, Osman Hamdi Bey'in 1906 ve 1907 y\u0131llar\u0131nda
+    iki farkl\u0131 versiyonunu \xE7izdi\u011Fi tablosudur. Osmanl\u0131 Ressamlar
+    Cemiyeti taraf\u0131ndan \xE7\u0131kart\u0131lan gazetenin on yedinci say\u0131s\u0131nda
+    tablonun ad\u0131 Kaplumba\u011Falar ve Adam olarak ge\xE7er, ancak tabloya daha
+    sonra yayg\u0131n olarak bilinen Kaplumba\u011Fa Terbiyecisi ad\u0131 verilmi\u015Ftir."
+  location: "Pera M\xFCzesi, \u0130stanbul"
+  image: {fileID: 21300000, guid: a781b33d7ceeb534a9210fc28bf0b3e4, type: 3}
+  thumnailSize: {x: 400, y: 400}
+  thumbnailImagePosition: {x: 0, y: 0, z: 0}
+  headImageSize: {x: 1900, y: 1100}
+  headerImagePosition: {x: 0, y: 0, z: 0}
